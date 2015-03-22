@@ -1,0 +1,4 @@
+<launch>
+	<node name="sonic_laser" pkg="sonic_laser" type="sonic_laser.py" output="screen">
+	</node>
+</launch>
